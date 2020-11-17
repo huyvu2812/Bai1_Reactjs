@@ -1,0 +1,49 @@
+.App-link {
+  color: #61dafb;
+}
+
+
+.App {
+  margin: auto;
+  width: 95%;
+  font-size: 15px;
+}
+.tableForm{
+  border: 2px solid black;
+}
+.studentForm{
+  width: 60%;
+  padding: 15px;
+}
+
+.txt{
+  width: 100%;
+  padding: 10px 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.btnAdd{
+  width: 40%;
+  background-color: rgba(87, 244, 255, 0.808);
+  color: black;
+  border: 2px solid black;
+  padding: 12px 18px;
+  margin-left: 120px;
+}
+
+.btnUpdate{
+  border: 2px solid black;
+  background-color: rgb(123, 202, 255);
+  margin: auto;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.btnDelete{
+  border: 2px solid black;
+  background-color: rgb(255, 85, 85);
+  margin: auto;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
